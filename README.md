@@ -18,14 +18,14 @@ git clone https://github.com/mariliamarquess/blockchain-java
 
 2. Abra no Eclipse
 
-3.Adicione as dependências externas:
+3. Adicione as dependências externas:
 - Gson
 - Bouncy Castle
 
 >> Baixe as bibliotecas (.jar) e adicione ao projeto:
 Right click no projeto → Build Path → Add External JARs
 
-4.Execute a classe principal
+4. Execute a classe principal
 
 ## Estrutura
 src/
